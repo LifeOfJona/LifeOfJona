@@ -7,7 +7,7 @@ To-do:
  - Do more Leetcode.
  - Work on more projects.
 
-![](https://komarev.com/ghpvc/?username=your-github-lifeofjona)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=grey)
 <!--
 **LifeOfJona/LifeOfJona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
