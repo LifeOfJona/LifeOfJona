@@ -6,6 +6,7 @@ To-do:
  - Fix @LifeOfJona.ca
  - Do more Leetcode.
  - Work on more projects.
+ - Clean up repositorys.
 
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-lifeofjona&color=lightgray) -->
 <!--
