@@ -4,5 +4,8 @@ Currently in my last year of studies **@WilfridLaurierUniversity** for **Compute
 
 
 <p align="center">
-  <img src="https://i.imgur.com/MPctyna.png" />
+  <img src="https://i.imgur.com/oDxxSUl.jpg" />
+  
 </p>
+
+<!-- <img src="https://i.imgur.com/MPctyna.png" /> --!>
